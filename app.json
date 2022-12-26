@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "07780355-ac10-4aca-b29d-7d881ab1813f"
+      }
+    },
+    "owner": "luislodero"
   }
 }
